@@ -1,7 +1,5 @@
 # Sign Language Digits Deep Learning
 
-![Sign Language Digits Dataset Cover](https://www.researchgate.net/publication/344389112/figure/fig8/AS:941467451260937@1601474740275/Sample-images-from-ASL-with-digits-dataset.png)
-
 Two stage deep learning project based on the Sign Language Digits dataset (28x28 grayscale images of hand signed digits 0 to 9).  
 Built as part of the Basic of Deep Learning course at Colman (2024).
 
